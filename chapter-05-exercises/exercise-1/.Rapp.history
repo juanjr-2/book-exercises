@@ -1,0 +1,11 @@
+hometown <- "Seattle"
+my_name <- "JuanJose"
+my_height <- ("70")
+my_height <- "70"
+puppies <- "3"
+puppies <- 3
+my_height <- 70
+puppy_price <- 300
+total_cost <- puppies * puppy_price
+too_expensive <- total_cost < 1000 #if the total cost is over 1k then too_expensive is true
+max_puppies <- puppies
